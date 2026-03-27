@@ -60,7 +60,7 @@ To establish Agentic AI not as a replacement for the robotics stack, but as a un
 
 1. Adam Dabrowski
 2. Julia Jia
-3. Leonardo Rosetti
+3. Leonardo Rossetti
 4. Todd Sutton
 
 If you are interested in joining, please add your name via a PR or reach out to the coordinator during our syncs
